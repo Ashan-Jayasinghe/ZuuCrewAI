@@ -1,0 +1,7 @@
+numpy # numerical computing
+pandas # data manipulation and analysis
+scikit-learn # machine learning library for models and data preprocessing
+seaborn # data visualization library based on matplotlib
+openai # for using OpenAI's API to EDA process
+groq # free and open-source LPU based solution for running LLMs efficiently; use for EDA process
+dotenv # for loading environment variables from .env file, such as API keys for OpenAI and Groq
